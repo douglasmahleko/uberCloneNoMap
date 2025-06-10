@@ -34,7 +34,7 @@ export default function DestinationSearch() {
             console.log(data, details);
           }}
           query={{
-            key: 'AIzaSyCuyRwWoB55MR4YJg47KL7rl3GN3vdV4jc',
+            key: '',
             language: 'en',
           }}
         /> */}
